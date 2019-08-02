@@ -1,6 +1,0 @@
-/home/souzadinizme1/workdir/AutoParBench/clangPlugin/build/CMakeFiles/rebuild_cache.dir
-/home/souzadinizme1/workdir/AutoParBench/clangPlugin/build/CMakeFiles/intrinsics_gen.dir
-/home/souzadinizme1/workdir/AutoParBench/clangPlugin/build/CMakeFiles/edit_cache.dir
-/home/souzadinizme1/workdir/AutoParBench/clangPlugin/build/ompextractor/CMakeFiles/rebuild_cache.dir
-/home/souzadinizme1/workdir/AutoParBench/clangPlugin/build/ompextractor/CMakeFiles/CLANGOMPExtractor.dir
-/home/souzadinizme1/workdir/AutoParBench/clangPlugin/build/ompextractor/CMakeFiles/edit_cache.dir

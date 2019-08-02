@@ -1,1 +1,0 @@
-/usr/bin/clang++ -fPIC -fcolor-diagnostics -g -fno-exceptions -fno-rtti -std=c++11   -shared  -o libCLANGOMPExtractor.so CMakeFiles/CLANGOMPExtractor.dir/ompextractor.cpp.o 
