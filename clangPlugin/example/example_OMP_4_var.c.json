@@ -1,0 +1,27 @@
+{
+"ordered 1":{
+"pragma type":"ordered",
+"Abstract Handle":"printf(\"%d\n\",a[i])"
+},
+"parallel loop 2":{
+"file":"example/example_OMP_4_var.c",
+"function":"foo",
+"loop id":"1",
+"loop line":"5",
+"loop column":"3",
+"pragma type":"parallel for",
+"ordered":""true"",
+"offload":"false",
+"multiversioned":"false",
+"shared":[],
+"private":[],
+"firstprivate":[],
+"lastprivate":[],
+"linear":[],
+"reduction":[],
+"map to":[],
+"map from":[],
+"map tofrom":[],
+"dependence list":["ordered 1"]
+}
+}
